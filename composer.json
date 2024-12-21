@@ -1,0 +1,9 @@
+{
+    "require": {
+        "spatie/laravel-permission": "^6.10",
+        "barryvdh/laravel-dompdf": "^3.0",
+        "maatwebsite/excel": "^1.1",
+        "livewire/livewire": "^3.5",
+        "laravel/fortify": "^1.25"
+    }
+}
